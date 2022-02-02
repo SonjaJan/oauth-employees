@@ -1,0 +1,4 @@
+# Project exclude paths
+/client-server/target/
+/resource-server/target/
+/spring-authorization-server/target/
